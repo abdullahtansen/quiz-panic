@@ -1,0 +1,30 @@
+.quiz-container{
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(91, 135, 91);
+}
+.quiz-container img{
+    padding: 20px;
+    width: 200px;
+}
+.card-des{
+    display: flex;
+    justify-content: space-between;
+}
+.card-des p{
+    color: white;
+    font-size: 17px;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10%;
+}
+.quiz-btn{
+    background-color: brown;
+    border: none;
+    height: 28px;
+    margin-top: 20px;
+}
+.play{
+    color: white;
+    width: 30px;
+}
